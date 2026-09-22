@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hai 👋, saya Ade Rali</h1>
+<h3 align="center">Seseorang yang senang belajar tentang teknologi</h3>
 
-<!--
-**Aderali06/aderali06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aderali06&label=Profile%20views&color=0e75b6&style=flat" alt="aderali06" /> </p>
 
-Here are some ideas to get you started:
+- 📫 Cara menghubungi saya **aderali06@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fakta menarik **Saya tidak bisa coding dan tidak mengerti pemrograman**
+
+<h3 align="left">Terhubung dengan saya:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aderali06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aderali06" height="30" width="40" /></a>
+</p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=aderali06&show_icons=true&locale=en" alt="aderali06" /></p>
